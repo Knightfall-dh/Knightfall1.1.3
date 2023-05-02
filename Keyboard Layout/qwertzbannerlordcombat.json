@@ -1,0 +1,458 @@
+[
+  {
+    "backcolor": "#1C2229",
+    "name": "QWERTZBannerlordCombat",
+    "author": "d&h"
+  },
+  [
+    {
+      "c": "#a877d9"
+    },
+    "Esc",
+    {
+      "x": 1,
+      "c": "#8dc4d6",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "F1\n\n\n\n\n\n\n\n\n\nSelect Order 1",
+    "F2\n\n\n\n\n\n\n\n\n\nSelect Order 2",
+    "F3\n\n\n\n\n\n\n\n\n\nSelect Order 3",
+    "F4\n\n\n\n\n\n\n\n\n\nSelect Order 4",
+    {
+      "x": 0.5
+    },
+    "F5\n\n\n\n\n\n\n\n\n\nSelect Order 5",
+    "F6\n\n\n\n\n\n\n\n\n\nSelect Order 6",
+    "F7\n\n\n\n\n\n\n\n\n\nSelect Order 7",
+    "F8\n\n\n\n\n\n\n\n\n\nSelect Order 8",
+    {
+      "x": 0.5
+    },
+    "F9\n\n\n\n\n\n\n\n\n\nSelect Order 9",
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "F10\n\n\n\n\n\n\n\n\n\nSelect Order 10",
+    "F11\n\n\n\n\n\n\n\n\n\nSelect Order 11",
+    {
+      "c": "#a877d9"
+    },
+    "F12\n\n\n\n\n\n\n\n\n\nScreen-shot (Steam)",
+    {
+      "x": 0.25,
+      "c": "#a1a1a1"
+    },
+    "PrtSc",
+    "Scroll",
+    "Pause"
+  ],
+  [
+    {
+      "y": 0.5,
+      "c": "#a877d9",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "~\n\n\n\n\n\n\n\n\n\nView Character",
+    {
+      "c": "#8dc4d6"
+    },
+    "1\n\n\n\n\n\n\n\n\n\nGroup 1",
+    "2\n\n\n\n\n\n\n\n\n\nGroup 2",
+    "3\n\n\n\n\n\n\n\n\n\nGroup 3",
+    "4\n\n\n\n\n\n\n\n\n\nGroup 4",
+    "5\n\n\n\n\n\n\n\n\n\nGroup 5",
+    "6\n\n\n\n\n\n\n\n\n\nGroup 6",
+    "7\n\n\n\n\n\n\n\n\n\nGroup 7",
+    "8\n\n\n\n\n\n\n\n\n\nGroup 8",
+    {
+      "c": "#a1a1a1"
+    },
+    "9",
+    "0",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    {
+      "c": "#8dc4d6",
+      "a": 4,
+      "f": 3,
+      "w": 2
+    },
+    "Backspace\n\n\n\n\n\n\n\n\n\nView Orders",
+    {
+      "x": 0.25,
+      "c": "#a1a1a1"
+    },
+    "Insert",
+    "Home",
+    "PgUp",
+    {
+      "x": 0.25
+    },
+    "Num Lock",
+    "/",
+    "*",
+    "-"
+  ],
+  [
+    {
+      "c": "#a877d9",
+      "f": 3,
+      "w": 1.5
+    },
+    "Tab\n\n\n\n\n\n\n\n\n\nLeave",
+    {
+      "c": "#a1a1a1"
+    },
+    "Q",
+    {
+      "c": "#a877d9",
+      "f": 3
+    },
+    "W\n\n\n\n\n\n\n\n\n\nUp",
+    {
+      "f": 3
+    },
+    "E\n\n\n\n\n\n\n\n\n\nKick / Bash",
+    {
+      "f": 3
+    },
+    "R\n\n\n\n\n\n\n\n\n\nCamera Toggle",
+    {
+      "f": 3
+    },
+    "T\n\n\n\n\n\n\n\n\n\nAll Chat",
+    {
+      "f": 3
+    },
+    "Z\n\n\n\n\n\n\n\n\n\nTeam Chat",
+    "U\n\n\n\n\n\n\n\n\n\nEquip. Switch",
+    {
+      "c": "#a1a1a1"
+    },
+    "I",
+    {
+      "c": "#a877d9",
+      "f": 3
+    },
+    "O\n\n\n\n\n\n\n\n\n\nCheer",
+    {
+      "c": "#a1a1a1"
+    },
+    "P",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "\\",
+    {
+      "x": 0.25
+    },
+    "Delete",
+    "End",
+    "PgDn",
+    {
+      "x": 0.25
+    },
+    "7",
+    "8",
+    "9",
+    {
+      "h": 2
+    },
+    "+"
+  ],
+  [
+    {
+      "c": "#a877d9",
+      "f": 3,
+      "w": 1.75
+    },
+    "Caps Lock\n\n\n\n\n\n\n\n\n\nToggle Walk/Run",
+    {
+      "f": 3
+    },
+    "A\n\n\n\n\n\n\n\n\n\nLeft",
+    {
+      "f": 3
+    },
+    "S\n\n\n\n\n\n\n\n\n\nDown",
+    {
+      "f": 3
+    },
+    "D\n\n\n\n\n\n\n\n\n\nRight",
+    {
+      "f": 3
+    },
+    "F\n\n\n\n\n\n\n\n\n\nInteract",
+    {
+      "f": 3
+    },
+    "G\n\n\n\n\n\n\n\n\n\nDrop Weapon",
+    {
+      "c": "#a1a1a1"
+    },
+    "H",
+    "J",
+    "K",
+    "L",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    {
+      "a": 4,
+      "w": 2.25
+    },
+    "Enter",
+    {
+      "x": 3.5,
+      "c": "#a877d9",
+      "f": 3
+    },
+    "4\n\n\n\n\n\n\n\n\n\nItem 4",
+    {
+      "c": "#a1a1a1"
+    },
+    "5",
+    "6"
+  ],
+  [
+    {
+      "c": "#a877d9",
+      "f": 3,
+      "w": 2.25
+    },
+    "Shift\n\n\n\n\n\n\n\n\n\nZoom",
+    {
+      "f": 3
+    },
+    "Y\n\n\n\n\n\n\n\n\n\ncrouch",
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "X\n\n\n\n\n\n\n\n\n\nSwitch Weapon Usage",
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "C\n\n\n\n\n\n\n\n\n\nSheath Weapon",
+    "V\n\n\n\n\n\n\n\n\n\nPuch to Talk",
+    {
+      "c": "#a1a1a1"
+    },
+    "B",
+    "N",
+    "M",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    {
+      "a": 4,
+      "w": 2.75
+    },
+    "Shift",
+    {
+      "x": 1.25
+    },
+    "↑",
+    {
+      "x": 1.25,
+      "c": "#a877d9",
+      "f": 3
+    },
+    "1\n\n\n\n\n\n\n\n\n\nItem 1",
+    {
+      "f": 3
+    },
+    "2\n\n\n\n\n\n\n\n\n\nItem 2",
+    {
+      "f": 3
+    },
+    "3\n\n\n\n\n\n\n\n\n\nItem 3",
+    {
+      "c": "#a1a1a1",
+      "h": 2
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "c": "#a877d9",
+      "f": 3,
+      "w": 1.25
+    },
+    "Left Alt\n\n\n\n\n\n\n\n\n\nIndicators",
+    {
+      "f": 3,
+      "w": 6.25
+    },
+    "Space\n\n\n\n\n\n\n\n\n\nJump",
+    {
+      "c": "#a1a1a1",
+      "w": 1.25
+    },
+    "Right Alt",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Menu",
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "x": 0.25
+    },
+    "←",
+    "↓",
+    "→",
+    {
+      "x": 0.25,
+      "w": 2
+    },
+    "0",
+    "."
+  ],
+  [
+    {
+      "y": 0.25,
+      "c": "#a877d9",
+      "f": 3
+    },
+    "M1\n\n\n\n\n\n\n\n\n\nAttack",
+    {
+      "f": 3
+    },
+    "M2\n\n\n\n\n\n\n\n\n\nDefend",
+    {
+      "fa": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "M3 Forward\n\n\n\n\n\n\n\n\n\nNext Weapon",
+    "M4 Back\n\n\n\n\n\n\n\n\n\nNext Shield",
+    {
+      "x": 0.5,
+      "fa": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "w": 1.5
+    },
+    "Middle Mouse\n\n\n\n\n\n\n\n\n\nShow Cursor",
+    {
+      "x": 0.25,
+      "fa": [
+        2
+      ],
+      "w": 2
+    },
+    "Wheel Up\n\n\n\n\n\n\n\n\n\nZoom In",
+    {
+      "w": 2
+    },
+    "Wheel Down\n\n\n\n\n\n\n\n\n\nZoom Out"
+  ]
+]
