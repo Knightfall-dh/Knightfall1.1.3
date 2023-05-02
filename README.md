@@ -1,5 +1,4 @@
-![](https://github.com/Knightfall-dh/Knightfall/blob/main/images/knightfallnexusjpg.jpg)
-
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/knightfallnexusjpg.jpg?raw=true)
 
 
 # Knightfall: A Bannerlord Wabbajack Mod List   
@@ -34,7 +33,7 @@ You need a clean **Bannerlord Installation**, that means:
 - If you have a fresh Bannerlord Installation, you should run it once and enter the Main Menu.  
   
 ************************************************************************************************************
-<img align="right" width="250" height="450" src="https://github.com/Knightfall-dh/Knightfall/blob/main/images/splash.png">  
+<img align="right" width="250" height="450" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true">  
 
 ## Installation:  
   
@@ -128,4 +127,4 @@ If Hardcore Lord is too difficult, disable it in Mod Organizer it is near the bo
 - Go to `%appdata%` and delete Wabbajack.
 - Let Steam verify your game files  
 
-![](https://github.com/Knightfall-dh/Knightfall/blob/main/images/Knightfallnexusbanner.jpg)
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/Knightfallnexusbanner.jpg?raw=true)
