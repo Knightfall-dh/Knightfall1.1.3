@@ -5,34 +5,6 @@
   
 WJ = Wabbajack  
   
-  
-## Introduktion:  
-  
-Knightfall is catering towards players, who are looking for a challenge.   
-As a base, we have Realistic Battle Mod and for early and mid-game we have Hardcore Lord. 
-  
-In the year of our Lord 1259.  
-Wrongly accusations of heresy spreads like wildfire across Europe.  
-You got excommunicated from the Catholic Church, and are outlawed across the known world.  
-You barely escaped the Inquisition and certain death by Burning at the stake.  
-Will you try to rehabilitate yourself in the Holy Land and become a Knight,  
-or will you be a feared Heretic and leader of reballions.  
-Now it's up to you.    
-  
-************************************************************************************************************
-## To-Do-List:  
-  
-You need a clean **Bannerlord Installation**, that means:  
-  
-- No Mods in your Modules Folder   
-- No Game file changes, no Launcher, no BLSE exe. etc   
-- No Steam Workshop mods, you have to unsubscribe all of them.   
-- 55 GB of free ssd space.   
-- Microsoft .NETFramework 6.0 (You get pointed to it in the Installation process)   
-- Microsoft Edge WebView2 (is requierd for Wabbajack)   
-- If you have a fresh Bannerlord Installation, you should run it once and enter the Main Menu.  
-  
-************************************************************************************************************
 <img align="right" width="250" height="450" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true">  
 
 ## Installation:  
@@ -43,7 +15,7 @@ You need a clean **Bannerlord Installation**, that means:
 Around 55 GB of free space is needed for Knightfall.  
 Here we create a new empty Folder called Wabbajack.  
 Try to create the WJ folder near the root level of your drive.  
-For example: `D:/Wabbajack`     
+For example: `D:/moddedgames/Wabbajack`     
 Go to Wabbajack.org and download WJ.   
 Copy WJ into the new empty Folder, and Install it.   
 After installation, one .bat File and one Folder got created inside of WJ's Folder.  
