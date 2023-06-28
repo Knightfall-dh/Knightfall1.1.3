@@ -2,7 +2,7 @@
 # Knightfall: A Wabbajack Mod List for Bannerlord                                        
 ## Knightfall Trailer 
 [![](https://img.youtube.com/vi/K0Cy6O43qAs/0.jpg)](https://www.youtube.com/watch?v=K0Cy6O43qAs)
-*************************************************************************************************************
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 # Pre Installation  
 <img align="right" width="250" height="300" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
 
@@ -18,10 +18,10 @@ Microsoft Edge Web View 2 is requierd for Wabbajack.
 ```If you have a fresh Bannerlord installation, which I prefer, run it once and enter the main menu.```    
 Game Language is set to English.  
 <br/>
-*************************************************************************************************************  
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png) 
 # **Video Installation Guide**  
 [![](https://img.youtube.com/vi/rX7Y6lGKaTA/0.jpg)](https://www.youtube.com/watch?v=rX7Y6lGKaTA) 
-************************************************************************************************************* 
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
 
@@ -34,7 +34,7 @@ For example: `D:/moddedgames/Wabbajack`
 Go to Wabbajack.org and press download.   
 Copy the Wabbajack.exe into the new empty Folder, and Install it.     
 You can close Wabbajack after successfully launching it.  
-*************************************************************************************************************
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
 
@@ -59,7 +59,7 @@ WJ will pick up where you left, so no progress will be lost.
 If some mod files get deleted, you will get an error massage. 
 In that case you have to wait until Knightfall gets updated.
 ```
-*************************************************************************************************************
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
 
@@ -71,7 +71,7 @@ Download the MCM settings file and unzip it.
 Copy the config folder into `C:\Users\win10\Documents\Mount and Blade II Bannerlord`   
 Don't forget to back up your files.   
 Confirm, and replace the files, when asked.      
-*************************************************************************************************************
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true">
 
@@ -82,7 +82,7 @@ Open Knightfalls folder and navigate to the Knightfall.exe and double-click it.
 After launching Mod Organizer, press the RUN button on the left side.  
 Novus Launcher opens.  
 Press Play!  
-*************************************************************************************************************
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true">
 
@@ -95,14 +95,14 @@ Your downloads folder will not be touched!
 Updating is like installing.  
 You only have to make sure that you select the same path and tick the `overwrite existing Modlist` button.  
 ##### You probably have to start a new game after updating.
-**************************************************************************************************************
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 <img align="left" width="65" height="100" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
 
-# Manual
+# Manual:
 
 [Download](https://docs.google.com/presentation/d/1_vpU763Kjcd_JW4jjaOJBUHoDVChzNYu6X_DIei-_Lo/edit?usp=drive_link) Knightfalls user Manual for mod highlights, Keyboard layouts and MCM changes.
 
-**************************************************************************************************************
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 ### Uninstall:
 - Delete Knightfall Folder
 - Delete Wabbajack Folder 
@@ -110,5 +110,33 @@ You only have to make sure that you select the same path and tick the `overwrite
 - Go to `%localappdata%` and delete Wabbajack.
 - Go to `%appdata%` and delete Wabbajack.
 - Let Steam verify your game files  
+
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
+### Credits:
+All the mod authors with their amazing Work, without you I would have quit Bannerlord ages ago.   
+The list would be too long, but here are some honorable mentions.  
+Lemmy for his Map  
+Yannis for AD1259  
+Sir Humphrey Appleby for his custom POC mod  
+The Wabbajack Team on Discord  
+Kezyma for Root Builder  
+And all the Wabbajack authors, from who I copied Text passages from.  
+ 
+Music: 
+Templars On The Mount by Vocum Primitiva is licensed under a Creative Commons License.
+(CC BY-NC-SA 3.0)  
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
+### Used Tools:
+
+    Mod Organizer 2 (2.4.4)
+    Wabbajack
+    Novus Launcher
+    Root Builder
+    Resource Hacker
+    dnSpy
+    Paint.net
+    7-zip
+    clip champ
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)   
 
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/Knightfallnexusbanner.jpg?raw=true)
