@@ -112,18 +112,23 @@ You only have to make sure that you select the same path and tick the `overwrite
 - Let Steam verify your game files  
 
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
-### Credits:
+### Credits:  
 All the mod authors with their amazing Work, without you I would have quit Bannerlord ages ago.   
 The list would be too long, but here are some honorable mentions.  
-Lemmy for his Map  
-Yannis for AD1259  
-Sir Humphrey Appleby for his custom POC mod  
-The Wabbajack Team on Discord  
-Kezyma for Root Builder  
+<img align="right" width="250" height="300" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true">
+<br/>
+Lemmy1916 for Europe Campaign Map.        
+Yannis for Anno Domini 1259.    
+Purpulez for POC color randomizer.  
+Sir Humphrey Appleby for PocTempEdition.  
+Vendorayne for Bandits_Nation.  
+ShutUpMalfoy for Raise your Banner.  
+The Wabbajack Team on Discord.    
+Kezyma for Root Builder.    
 And all the Wabbajack authors, from who I copied Text passages from.  
  
 Music: 
-Templars On The Mount by Vocum Primitiva is licensed under a Creative Commons License.
+Templars On The Mount by Vocum Primitiva is licensed under a Creative Commons License.  
 (CC BY-NC-SA 3.0)  
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 ### Used Tools:
