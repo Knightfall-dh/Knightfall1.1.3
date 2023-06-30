@@ -34,6 +34,8 @@ For example: `D:/moddedgames/Wabbajack`
 Go to Wabbajack.org and press download.   
 Copy the Wabbajack.exe into the new empty Folder, and Install it.     
 You can close Wabbajack after successfully launching it.  
+<br/>
+
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
@@ -75,18 +77,22 @@ In that case you have to wait until Knightfall gets updated.
 Download the MCM settings file and unzip it.  
 Copy the config folder into `C:\Users\win10\Documents\Mount and Blade II Bannerlord`   
 Don't forget to back up your files.   
-Confirm, and replace the files, when asked.      
+Confirm, and replace the files, when asked.   
+<br/>
+
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true">
 
-#### Step 4: Start Bannerlord  
+#### Step 4: Start Knightfall  
 [Microsoft .NETFramework 6.0](https://download.visualstudio.microsoft.com/download/pr/85473c45-8d91-48cb-ab41-86ec7abc1000/83cd0c82f0cde9a566bae4245ea5a65b/windowsdesktop-runtime-6.0.16-win-x64.exe)
 
 Open Knightfalls folder and navigate to the Knightfall.exe and double-click it.    
-After launching Mod Organizer, press the RUN button on the left side.  
+After launching Mod Organizer, press RUN on the right side.  
 Novus Launcher opens.  
 Press Play!  
+<br/>
+
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true">
