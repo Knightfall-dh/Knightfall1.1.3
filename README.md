@@ -74,7 +74,7 @@ In that case you have to wait until Knightfall gets updated.
 [MCM Settings](https://drive.google.com/uc?export=download&id=1-G8oAOG34qym_7DzUN-HPwegbHWemoQz)
 
 
-Download the MCM settings file and unzip it.  
+Download MCM-Settings.7z and unzip the file.  
 Copy the config folder into `C:\Users\win10\Documents\Mount and Blade II Bannerlord`   
 Don't forget to back up your files.   
 Confirm, and replace the files, when asked.   
