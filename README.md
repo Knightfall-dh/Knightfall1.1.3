@@ -96,6 +96,24 @@ Updating is like installing.
 You only have to make sure that you select the same path and tick the `overwrite existing Modlist` button.  
 ##### You probably have to start a new game after updating.
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
+
+# Post Installation
+
+## If you are missing custom Music and Novus Launcher in your game folder, use root Builder.
+
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/rootbuilder.gif)
+
+<br/>
+
+## You can check if the deployment was successful by browsing the Virtual folder.
+
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/explorevf.gif)
+
+
+
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
+
+
 <img align="left" width="65" height="100" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
 
 # Manual:
