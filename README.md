@@ -15,7 +15,7 @@ No Steam Workshop mods, you have to unsubscribe all of them.
 55 GB of free ssd space.  
 Microsoft .NET Framework 6.0 (You get pointed to it in the Installation process)   
 Microsoft Edge Web View 2 is requierd for Wabbajack.  
-```If you have a fresh Bannerlord installation, which I prefer, run it once and enter the main menu.```    
+``If you have a fresh Bannerlord installation, which I prefer, run it once and enter the main menu.``    
 Game Language is set to English.  
 <br/>
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png) 
@@ -41,24 +41,29 @@ You can close Wabbajack after successfully launching it.
 #### Step 2: Knightfall   
 [Microsoft Edge WebView2](https://go.microsoft.com/fwlink/p/?LinkId=2124703)  
 Create a new empty Folder called Knightfall.  
-Download the Knightfall.wabbajack file, and run it.  
+Download Knightfall.wabbajack, and run it.  
 Set the `Modlist Installation Location` (Middle column, three dots)  
 and point it to Knightfalls empty Folder.  
 The Download location should automatically fill in.  
 Press the Start button.  
   
-*WJ opens a log-in screen to Nexus, if you get a BLACK SCREEN, download Microsoft Edge WebView2*  
+*Wabbajack opens a log-in screen to Nexus, if you get a BLACK SCREEN, download Microsoft Edge WebView2*  
   
 After successfully login, Wabbajack will point you to different downloads on Nexus.  
 Estimated download time for Knightfall is 3.5 hours with 3mb/s  
-Close Knightfall.wabbajack after Installation.  
-```  
+Close Knightfall.wabbajack after Installation. 
+<br/>
+```
+
 Troubleshoot Knightfall
-There are many reasons why WJ is failing. First, you should close WJ and rerun it.  
-WJ will pick up where you left, so no progress will be lost.  
+There are many reasons why Wabbajack is failing. First, you should close Knightfall.wabbajck and rerun it.  
+Wabbajack will pick up where you left, so no progress will be lost.  
 If some mod files get deleted, you will get an error massage. 
 In that case you have to wait until Knightfall gets updated.
+
 ```
+<br/>
+
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
@@ -99,7 +104,7 @@ You only have to make sure that you select the same path and tick the `overwrite
 
 # Post Installation
 
-## If you are missing custom Music and Novus Launcher in your game folder, use root Builder.
+## Use root Builder to deploy custom Music and Novus Launcher to your game folder.
 
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/rootbuilder.gif)
 
