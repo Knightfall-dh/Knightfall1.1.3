@@ -1,0 +1,39 @@
+
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Knightfall",
+    "description": "Historic-inspired total conversion: thanks to Lemmy's Europe Campaign Map, we have twice the map size of Calradia, and Anno Domini 1259 by Yannis brings 24 kingdoms, 21 cultures, 140 clans, 10 bandit factions, 10 minor factions, and thousands of lords to the table. Play the way you want: build a criminal empire, serve as a regular soldier, hire men, customize companions, hunt bandits, complete quests, win tournaments, trade, wage war, create your own kingdom, find marriage, receive heirs and conquer death. To help you on your journey, you have hundreds of weapons, armor, horses, and thousands of troops to your disposal.",
+    "author": "<d&h>",
+    "maintainers": [
+      "github/Knightfall-dh"
+    ],
+    "game": "Mount & Blade II Bannerlord",
+    "tags": [
+      "Total Conversion",
+      "Immersive",
+      "Realism"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Knightfall-dh/Knightfall1.1.3/main/images/3-Templar_iconography_ACX6MJ.jpg",
+      "readme": "https://github.com/Knightfall-dh/Knightfall1.1.3/wiki/README",
+      "download": "https://authored-files.wabbajack.org/Knightfall.wabbajack_98956e30-a202-40b6-bfd9-db031bcd040e",
+      "machineURL": "knightfall",
+      "discordURL": "https://discord.gg/XVUkqBRJk9"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "xqctOOym+Wg=",
+      "Size": 4018928,
+      "NumberOfArchives": 80,
+      "SizeOfArchives": 21109159515,
+      "NumberOfInstalledFiles": 5999,
+      "SizeOfInstalledFiles": 30305395623
+    },
+    "version": "1.1.5A"
+  }
+]
