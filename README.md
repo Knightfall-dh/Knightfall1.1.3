@@ -8,7 +8,7 @@
 
 ### TO-DO-LIST  
 
-Legal steam copy of Bannerlord  
+Legal copy of Mount & Blade II Bannerlord `` STEAM VERSION ONLY ``   
 No mods in your Modules folder  
 No game file changes, no launcher, no BLSE exe. etc.  
 No Steam Workshop mods, you have to unsubscribe all of them.  
