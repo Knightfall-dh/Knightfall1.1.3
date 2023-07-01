@@ -17,6 +17,7 @@ No doucumentation on Inistial release on AD1259 Discord.
 ### Knightfall Update 1.1.5A   
 -updated Raise your Banner to 10.3   
 -updated PocTempEdition to latest release on Nexus (hidden mod)   
--remoeved Raise your Banner custom config.json (not needed any more)   
+-remoeved custom config.json for Raise your Banner (not needed any more)   
 -updated Better Time to 1.3.0   
+-updated Homesteads to V2.3.8
 
