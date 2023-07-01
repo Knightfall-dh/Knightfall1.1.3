@@ -21,18 +21,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Knightfall-dh/Knightfall1.1.3/main/images/3-Templar_iconography_ACX6MJ.jpg",
       "readme": "https://github.com/Knightfall-dh/Knightfall1.1.3/wiki/README",
-      "download": "https://authored-files.wabbajack.org/Knightfall.wabbajack_98956e30-a202-40b6-bfd9-db031bcd040e",
+      "download": "https://authored-files.wabbajack.org/Knightfall.wabbajack_6e77c101-6614-41ad-b157-21f89ff8045e",
       "machineURL": "knightfall",
       "discordURL": "https://discord.gg/XVUkqBRJk9"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "xqctOOym+Wg=",
-      "Size": 4018928,
+      "Hash": "WzbDrOPkHsQ=",
+      "Size": 4018832,
       "NumberOfArchives": 80,
-      "SizeOfArchives": 21109159515,
-      "NumberOfInstalledFiles": 5999,
-      "SizeOfInstalledFiles": 30305395623
+      "SizeOfArchives": 21109160122,
+      "NumberOfInstalledFiles": 6001,
+      "SizeOfInstalledFiles": 30305396565
     },
     "version": "1.1.5A"
   }
