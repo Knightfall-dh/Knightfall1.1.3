@@ -20,7 +20,7 @@ Game Language is set to English.
 <br/>
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png) 
 # **Video Installation Guide**  
-[![](https://img.youtube.com/vi/rX7Y6lGKaTA/0.jpg)](https://www.youtube.com/watch?v=rX7Y6lGKaTA) 
+[![](https://img.youtube.com/vi/etIDSlsbhvU/0.jpg)](https://www.youtube.com/watch?v=etIDSlsbhvU) 
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
