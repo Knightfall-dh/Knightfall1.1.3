@@ -19,5 +19,7 @@ No doucumentation on Inistial release on AD1259 Discord.
 -updated PocTempEdition to latest release on Nexus (hidden mod)   
 -remoeved custom config.json for Raise your Banner (not needed any more)   
 -updated Better Time to 1.3.0   
--updated Homesteads to V2.3.8
+-updated Homesteads to V2.3.8  
+-added BUTR's Yell To Inspire (press V and inspire your troops)   
+
 
