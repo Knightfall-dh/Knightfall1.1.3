@@ -8,13 +8,13 @@ No doucumentation on Inistial release on AD1259 Discord.
 -cleaned some stuff up.   
 -Should be more stable now.   
 
-### Knightfall Update 1.1.5   
+###  Update 1.1.5   
 -Removed licensed music and added free AD1259 music (Vocum Primitiva)  
 -Updated a couple of mods (OSA)   
 -Changed main menu background    
 -Added Homesteads mod, but not fully tested    
 
-### Knightfall Update 1.1.5A   
+###  Update 1.1.5A   
 -updated Raise your Banner to 10.3   
 -updated PocTempEdition to latest release on Nexus (hidden mod)   
 -remoeved custom config.json for Raise your Banner (not needed any more)   
