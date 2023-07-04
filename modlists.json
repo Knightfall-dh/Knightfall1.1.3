@@ -3,7 +3,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Knightfall",
-    "description": "Historic-inspired total conversion: thanks to Lemmy's Europe Campaign Map, we have twice the map size of Calradia, and Anno Domini 1259 by Yannis brings 24 kingdoms, 21 cultures, 140 clans, 10 bandit factions, 10 minor factions, and thousands of lords to the table. Play the way you want: build a criminal empire, serve as a regular soldier, hire men, customize companions, hunt bandits, complete quests, win tournaments, trade, wage war, create your own kingdom, find marriage, receive heirs and conquer death. To help you on your journey, you have hundreds of weapons, armor, horses, and thousands of troops to your disposal.",
+    "description": "Historic-inspired total conversion: thanks to Lemmy's Europe Campaign Map, we have twice the map size of Calradia, and Anno Domini 1259 by Yannis brings 24 kingdoms, 21 cultures, 140 clans, 10 bandit factions, 10 minor factions, and thousands of lords to the table. Play the way you want: build a criminal empire, serve as a regular soldier, hire men, customize companions, hunt bandits, complete quests, win tournaments, trade, wage war, create your own kingdom, find marriage, receive heirs and conquer death. To help you on your journey, you have hundreds of weapons, armor, horses, and thousands of troops at your disposal.",
     "author": "<d&h>",
     "maintainers": [
       "github/Knightfall-dh"
@@ -21,18 +21,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Knightfall-dh/Knightfall1.1.3/main/images/3-Templar_iconography_ACX6MJ.jpg",
       "readme": "https://github.com/Knightfall-dh/Knightfall1.1.3/wiki/README",
-      "download": "https://authored-files.wabbajack.org/Knightfall.wabbajack_6e77c101-6614-41ad-b157-21f89ff8045e",
+      "download": "https://authored-files.wabbajack.org/Knightfall.wabbajack_eeb5a8ac-96d5-4371-9aba-f33babd56ff6",
       "machineURL": "Knightfall",
       "discordURL": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "WzbDrOPkHsQ=",
-      "Size": 4018832,
+      "Hash": "zERPoB8aMZg=",
+      "Size": 4018489,
       "NumberOfArchives": 80,
-      "SizeOfArchives": 21109160122,
-      "NumberOfInstalledFiles": 6001,
-      "SizeOfInstalledFiles": 30305396565
+      "SizeOfArchives": 21109189359,
+      "NumberOfInstalledFiles": 6017,
+      "SizeOfInstalledFiles": 30306365597
     },
     "version": "1.1.5A"
   }
