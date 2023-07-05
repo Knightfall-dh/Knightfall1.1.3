@@ -4,7 +4,7 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Knightfall",
     "description": "Historic-inspired total conversion: thanks to Lemmy's Europe Campaign Map, we have twice the map size of Calradia, and Anno Domini 1259 by Yannis brings 24 kingdoms, 21 cultures, 140 clans, 10 bandit factions, 10 minor factions, and thousands of lords to the table. Play the way you want: build a criminal empire, serve as a regular soldier, hire men, customize companions, hunt bandits, complete quests, win tournaments, trade, wage war, create your own kingdom, find marriage, receive heirs and conquer death. To help you on your journey, you have hundreds of weapons, armor, horses, and thousands of troops at your disposal.",
-    "author": "<d&h>",
+    "author": "d&h",
     "maintainers": [
       "github/Knightfall-dh"
     ],
@@ -23,7 +23,7 @@
       "readme": "https://github.com/Knightfall-dh/Knightfall1.1.3/wiki/README",
       "download": "https://authored-files.wabbajack.org/Knightfall.wabbajack_eeb5a8ac-96d5-4371-9aba-f33babd56ff6",
       "machineURL": "Knightfall",
-      "discordURL": ""
+      "discordURL": "https://discord.gg/XVUkqBRJk9"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
