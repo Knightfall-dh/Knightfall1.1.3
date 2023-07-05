@@ -23,3 +23,5 @@ No doucumentation on Inistial release on AD1259 Discord.
 -added BUTR's Yell To Inspire (press V and inspire your troops)   
 -remoeved custom config.json for Raise your Banner (not needed any more)
 
+###  Update 1.1.5B
+-updated ButterLib v2.8.6
