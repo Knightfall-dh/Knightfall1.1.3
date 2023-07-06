@@ -24,4 +24,6 @@ No doucumentation on Inistial release on AD1259 Discord.
 -remoeved custom config.json for Raise your Banner (not needed any more)
 
 ###  Update 1.1.5B
--updated ButterLib v2.8.6
+-updated ButterLib v2.8.8
+-updated CharacterReload-For v(1.1.0-1.1.5)
+-added custom config.json for Raise your Banner (siege crash fix)
