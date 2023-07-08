@@ -3,13 +3,13 @@ I am not good at documentation, but here you go.
 No doucumentation before Initial release.
 
 ### Update 1.1.4B   
--Removed some mods,    
+-removed some mods,    
 -added Raise your Banner,    
 -cleaned some stuff up.   
--Should be more stable now.   
+-should be more stable now.   
 
 ###  Update 1.1.5   
--Removed licensed music and added free AD1259 music (Vocum Primitiva)  
+-removed licensed music and added free AD1259 music (Vocum Primitiva)  
 -Updated a couple of mods (OSA)   
 -Changed main menu background    
 -Added Homesteads mod, but not fully tested    
@@ -21,12 +21,12 @@ No doucumentation before Initial release.
 -updated Homesteads V2.3.9  
 -updated Random Bodies 4.1    
 -added BUTR's Yell To Inspire (press V and inspire your troops)   
--remoeved custom config.json for Raise your Banner (not needed any more)
+-removed custom config.json for Raise your Banner (not needed any more)
 
 ###  Update 1.1.5B  
 -updated ButterLib v2.8.8   
 -updated CharacterReload-For v(1.1.0-1.1.5)   
--remoeved Serve as a Soldier (siege crash)   
+-removed Serve as a Soldier (siege crash)   
 -added Improved Garrisons 4.1.2.10   
 -added Garrison Do Something 1.3.4   
 
