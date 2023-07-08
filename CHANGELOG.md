@@ -1,6 +1,6 @@
 I am not good at documentation, but here you go.
 
-No doucumentation on Inistial release on AD1259 Discord.
+No doucumentation before Initial release.
 
 ### Update 1.1.4B   
 -Removed some mods,    
