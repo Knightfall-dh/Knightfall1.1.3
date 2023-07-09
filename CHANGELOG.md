@@ -26,7 +26,7 @@ No doucumentation before Initial release.
 ###  Update 1.1.5B  
 -updated ButterLib v2.8.8   
 -updated CharacterReload-For v(1.1.0-1.1.5)  
--updated Hold Court 1.0.17    
+-updated Hold Court 1.0.18    
 -removed Serve as a Soldier (siege crash)   
 -added Improved Garrisons 4.1.2.10   
 -added Garrison Do Something 1.3.4   
