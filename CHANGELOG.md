@@ -28,10 +28,10 @@ No doucumentation before Initial release.
 -updated CharacterReload-For v(1.1.0-1.1.5)   
 -updated Hold Court 1.0.19      
 -removed Bandits_Nation (perfomence and bugs)   
--added Improved Garrisons 4.1.2.10    
--added Garrison Do Something 1.3.4   
--added increased AD1259 custom spawns 
--rollback Serve as a Soldier fix 1.0.5 + SAS config AI can't hire Wanderers (testing)  
+-added Improved Garrisons 4.1.2.10     
+-added Garrison Do Something 1.3.4    
+-added increased AD1259 custom spawns     
+-rollback Serve as a Soldier fix 1.0.5 + SAS config AI can't hire Wanderers (testing)   
 
 
 
