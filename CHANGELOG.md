@@ -23,13 +23,16 @@ No doucumentation before Initial release.
 -added BUTR's Yell To Inspire (press V and inspire your troops)   
 -removed custom config.json for Raise your Banner (not needed any more)
 
-###  Update 1.1.5B  
--updated ButterLib v2.8.8   
--updated CharacterReload-For v(1.1.0-1.1.5)  
--updated Hold Court 1.0.18    
--removed Serve as a Soldier (siege crash)   
--added Improved Garrisons 4.1.2.10   
+###  Update 1.1.5B   
+-updated ButterLib v2.8.8    
+-updated CharacterReload-For v(1.1.0-1.1.5)   
+-updated Hold Court 1.0.19      
+-removed Bandits_Nation (perfomence and bugs)   
+-added Improved Garrisons 4.1.2.10    
 -added Garrison Do Something 1.3.4   
+-added increased AD1259 custom spawns 
+-rollback Serve as a Soldier fix 1.0.5 + SAS config AI can't hire Wanderers (testing)  
+
 
 
 
