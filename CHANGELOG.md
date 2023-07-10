@@ -29,8 +29,9 @@ No doucumentation before Initial release.
 -updated Hold Court 1.0.19      
 -removed Bandits_Nation (perfomence and bugs)   
 -added Improved Garrisons 4.1.2.10     
--added Garrison Do Something 1.3.4    
--added increased AD1259 custom spawns     
+-added Garrison Do Something 1.3.4  
+-added missing RBM Armor values for hidden EBA items. (only obtainable through cheat mode/ if you want plate armor, now you can)   
+-added increased AD1259 custom spawns (compansation for removed Bandits_Nation)       
 -rollback Serve as a Soldier fix 1.0.5 + SAS config AI can't hire Wanderers (testing)   
 
 
