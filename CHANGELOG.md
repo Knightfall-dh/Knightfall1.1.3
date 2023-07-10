@@ -27,12 +27,12 @@ No doucumentation before Initial release.
 -updated ButterLib v2.8.8  
 -updated Mod Configuration Menu v5.8.0   
 -updated CharacterReload-For v(1.1.0-1.1.5)   
--updated Hold Court 1.0.19    
--removed Serve as a Soldier (siege crash)
--removed Bandits_Nation (perfomence and bugs)  
--added increased AD1259 custom spawns (compansation for removed Bandits_Nation)    
--added Improved Garrisons 4.1.2.10     
--added Garrison Do Something 1.3.4  
+-updated Hold Court 1.0.19     
+-removed Serve as a Soldier (siege crash)    
+-removed Bandits_Nation (perfomence and bugs)   
+-added increased AD1259 custom spawns (compansation for removed Bandits_Nation)     
+-added Improved Garrisons 4.1.2.10      
+-added Garrison Do Something 1.3.4    
 -added missing RBM Armor values for hidden EBA items. (only obtainable through cheat mode/ if you want plate armor, now you can)          
   
 
