@@ -38,4 +38,4 @@ No doucumentation before Initial release.
 -added Garrison Do Something 1.3.4     
 -added missing RBM Armor values for hidden EBA items. (only obtainable through cheat mode/ if you want plate armor, now you can)          
 
--removed Serve as a Soldier (siege crash)    
+-removed Serve as a Soldier + fix (version 1.0.5 in downloads folder if you want to try it)    
