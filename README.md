@@ -100,9 +100,9 @@ Press Play!
 #### Step 5: Update Knightfall
 <br/>
 Before we update, we have to use Root Builder and clear our game files. 
-
+<br/>
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/clear.gif)
-
+<br/>
 Wabbajack will delete all files that are not part of the Modlist when updating!  
 This means that any additional mods you have installed on top of the Modlist will be deleted.  
 Your downloads folder will not be touched!  
