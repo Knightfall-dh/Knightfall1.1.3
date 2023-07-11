@@ -30,7 +30,7 @@ No doucumentation before Initial release.
 -updated Hold Court 1.0.20   
 -updated Random Bodies 4.2    
    
--changed Bandits_Nation (aktive hideouts per Bandit faction 20/40)     
+-changed Bandits_Nation (active hideouts per Bandit faction 20/40)     
 -changed AD1259 custom spawns (more hostile parties)      
 -changed AD1259 Kingdom xml (less wars, France + Sicily at war at game start)   
 
