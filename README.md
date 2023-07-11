@@ -97,22 +97,6 @@ Press Play!
 
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true">
 
-#### Step 5: Update Knightfall
-<br/>
-Before we update, we have to use Root Builder and clear our game files. 
-<br/>
-
-![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/clear.gif)
-
-<br/>
-Wabbajack will delete all files that are not part of the Modlist when updating!  
-This means that any additional mods you have installed on top of the Modlist will be deleted.  
-Your downloads folder will not be touched!  
-Updating is like installing.  
-You only have to make sure that you select the same path and tick the `overwrite existing Modlist` button.  
-##### You probably have to start a new game after updating.
-![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
-
 # Post Installation
 
 ## Use root Builder to deploy custom Music and Novus Launcher to your game folder.
@@ -130,7 +114,29 @@ You only have to make sure that you select the same path and tick the `overwrite
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 
-<img align="left" width="65" height="100" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
+<img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
+
+# Update Knightfall
+
+## Before we update, we have to use Root Builder and clear our game files.  
+
+<br/>
+
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/clear.gif)
+
+<br/>
+
+Wabbajack will delete all files that are not part of the Modlist when updating!  
+This means that any additional mods you have installed on top of the Modlist will be deleted.  
+Your downloads folder will not be touched!  
+Updating is like installing.  
+You only have to make sure that you select the same path and tick the `overwrite existing Modlist` button.  
+
+<img align="right" width="550" height="300" src="images/overrite.png"> 
+
+##### You probably have to start a new game after updating.
+
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
 # Manual:
 
