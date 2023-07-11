@@ -24,8 +24,8 @@ No doucumentation before Initial release.
 -removed custom config.json for Raise your Banner (not needed any more)
 
 ###  Update 1.1.5B   
--updated ButterLib v2.8.8  
--updated Mod Configuration Menu v5.8.0   
+-updated ButterLib v2.8.9    
+-updated Mod Configuration Menu v5.8.1   
 -updated CharacterReload-For v(1.1.0-1.1.5)   
 -updated Hold Court 1.0.20   
 -updated Random Bodies 4.2    
