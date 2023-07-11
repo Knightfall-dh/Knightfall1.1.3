@@ -132,7 +132,7 @@ Your downloads folder will not be touched!
 Updating is like installing.  
 You only have to make sure that you select the same path and tick the `overwrite existing Modlist` button.  
 
-<img align="right" width="550" height="300" src="images/overrite.png"> 
+<img align="right" width="550" height="300" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/overrite.png?raw=true"> 
 
 ##### You probably have to start a new game after updating.
 
