@@ -3,7 +3,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Knightfall",
-    "description": "Historic-inspired total conversion: thanks to Lemmy's Europe Campaign Map, we have twice the map size of Calradia, and Anno Domini 1259 by Yannis brings 24 kingdoms, 21 cultures, 140 clans, 10 bandit factions, 10 minor factions, and thousands of lords to the table. Play the way you want: build a criminal empire, hire men, customize companions, hunt bandits, complete quests, win tournaments, trade, wage war, create your own kingdom, find marriage, receive heirs and conquer death. To help you on your journey, you have hundreds of weapons, armor, horses, and thousands of troops at your disposal.",
+    "description": "Knightfall is a Historic-Inspired Total Conversion taking place in Europe's 13th Century. Focused on immersion, new gameplay mechanics and stability.",
     "author": "d&h",
     "maintainers": [
       "github/Knightfall-dh"
