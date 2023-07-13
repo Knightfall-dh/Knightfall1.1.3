@@ -42,7 +42,7 @@ No doucumentation before Initial release.
 
 ### Update 1.1.5C
 
--added Nemesis 1.0
--added Bodyguards 1.1.0.1
--changed Mercenaries spawn rate
+-added Nemesis 1.0  
+-added Bodyguards 1.1.0.1   
+-changed Mercenaries spawn rate    
 
