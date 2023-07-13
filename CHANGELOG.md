@@ -38,4 +38,11 @@ No doucumentation before Initial release.
 -added Garrison Do Something 1.3.4     
 -added missing RBM Armor values for hidden EBA items. (only obtainable through cheat mode/ if you want plate armor, now you can)          
 
--removed Serve as a Soldier + fix (version 1.0.5 modID=5453 fileID=34975)    
+-removed Serve as a Soldier + fix (version 1.0.5 modID=5453 fileID=34975)  
+
+### Update 1.1.5C
+
+-added Nemesis 1.0
+-added Bodyguards 1.1.0.1
+-changed Mercenaries spawn rate
+
