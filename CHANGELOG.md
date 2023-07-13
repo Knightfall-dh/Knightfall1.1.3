@@ -40,9 +40,13 @@ No doucumentation before Initial release.
 
 -removed Serve as a Soldier + fix (version 1.0.5 modID=5453 fileID=34975)  
 
-### Update 1.1.5C
+### Update 1.1.5C   
+-updated ButterLib v2.8.10
+-updated Mod Configuration Menu v5.8.2  
+-updated Hold Court 1.0.21   
+
+-changed Mercenaries spawn rate   
 
 -added Nemesis 1.0  
 -added Bodyguards 1.1.0.1   
--changed Mercenaries spawn rate    
 
