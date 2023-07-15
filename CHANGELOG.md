@@ -44,10 +44,10 @@ No doucumentation before Initial release.
 -updated ButterLib v2.8.10      
 -updated Mod Configuration Menu v5.8.2   
 -updated Hold Court 1.0.21   
-
--changed spawn rates across the board (AD1259 RegularBanditDailySpawn.xml)
--changed Bandits_Nation (active hideouts at gamestart per Bandit faction 15 / removed max hideouts limit) 
-
+     
+-changed spawn rates across the board (AD1259 RegularBanditDailySpawn.xml)    
+-changed Bandits_Nation (active hideouts at gamestart per Bandit faction 15 / removed max hideouts limit)   
+    
 -added Nemesis 1.0  
 -added Bodyguards 1.1.0.1   
 
