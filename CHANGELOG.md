@@ -51,4 +51,5 @@ No doucumentation before Initial release.
     
 -added Nemesis 1.0  
 -added Bodyguards 1.1.0.1   
+-added new MO2 profile (AD1259) only essential mods   
 
