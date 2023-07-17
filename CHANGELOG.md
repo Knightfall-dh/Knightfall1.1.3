@@ -52,4 +52,6 @@ No doucumentation before Initial release.
 -added Nemesis 1.0  
 -added Bodyguards 1.1.0.1   
 -added new MO2 profile (AD1259) only essential mods   
-
+     
+-tools updated Wabbajack to 3.2.0.0    
+-tools updated Root Builder to 4.4.3    
