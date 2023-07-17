@@ -55,3 +55,5 @@ No doucumentation before Initial release.
      
 -tools updated Wabbajack to 3.2.0.0    
 -tools updated Root Builder to 4.4.3    
+
+-removed Kaoses Common + tweaks (rare crash while loading save games)   
