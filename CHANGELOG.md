@@ -49,7 +49,7 @@ No doucumentation before Initial release.
 -changed spawn rates across the board (AD1259 RegularBanditDailySpawn.xml)    
 -changed Bandits_Nation (active hideouts at gamestart per Bandit faction 15 / removed max hideouts limit)   
     
--added Nemesis 1.0  
+-added Nemesis 1.0.1  
 -added Bodyguards 1.1.0.1   
 -added new MO2 profile (AD1259) only essential mods   
      
