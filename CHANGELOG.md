@@ -60,3 +60,5 @@ No doucumentation before Initial release.
 -removed Kaoses Common + tweaks (rare crash while loading save games)   
 -removed Blunt Arena Weapons   
 -removed Balanced Tournament Armor    
+-removed Kill Bandits Raise Relations
+
