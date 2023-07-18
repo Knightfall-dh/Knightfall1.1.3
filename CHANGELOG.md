@@ -42,7 +42,7 @@ No doucumentation before Initial release.
 
 ### Update 1.1.5C   
 -updated ButterLib v2.8.11      
--updated Mod Configuration Menu v5.9.0     
+-updated Mod Configuration Menu v5.9.1     
 -updated Hold Court 1.0.22     
 -updated Fourberie v12-3-1-0   
 -updated Random Events 1.1.5   
