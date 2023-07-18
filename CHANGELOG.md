@@ -46,8 +46,9 @@ No doucumentation before Initial release.
 -updated Hold Court 1.0.22     
 -updated Fourberie v12-3-1-0   
 -updated Random Events 1.1.5  
--updated CharacterReload-e1.1.5.2  
+-updated CharacterReload-e1.1.5.3  
 -updated Command Faction Parties 1.6.5     
+-updated Random Bodies 4.3    
 
 -changed spawn rates across the board (AD1259 RegularBanditDailySpawn.xml)    
 -changed Bandits_Nation (active hideouts at gamestart per Bandit faction 15 / removed max hideouts limit)   
