@@ -43,12 +43,13 @@ No doucumentation before Initial release.
 ### Update 1.1.5C   
 -updated ButterLib v2.8.11      
 -updated Mod Configuration Menu v5.9.1     
--updated Hold Court 1.0.22     
+-updated Hold Court 1.0.23     
 -updated Fourberie v12-3-1-0   
 -updated Random Events 1.1.5  
 -updated CharacterReload-e1.1.5.3  
 -updated Command Faction Parties 1.6.5     
--updated Random Bodies 4.3    
+-updated Random Bodies 4.3  
+-updated Butter Equipped 1.5.0   
 
 -changed spawn rates across the board (AD1259 RegularBanditDailySpawn.xml)    
 -changed Bandits_Nation (active hideouts at gamestart per Bandit faction 15 / removed max hideouts limit)   
@@ -57,12 +58,12 @@ No doucumentation before Initial release.
 -added Nemesis 1.0.2      
 -added Bodyguards 1.1.0.1   
 -added new MO2 profile (AD1259) only essential mods   
-     
+-added TMRT + SettlementBannerFix    
+
 -tools updated Wabbajack to 3.2.0.0    
 -tools updated Root Builder to 4.4.3    
 
--removed Kaoses Common + tweaks (rare crash while loading save games)   
--removed Blunt Arena Weapons   
+-removed Kaoses Common + tweaks (rare crash while loading save games)    
 -removed Balanced Tournament Armor    
--removed Kill Bandits Raise Relations
+-removed Kill Bandits Raise Relations  
 
