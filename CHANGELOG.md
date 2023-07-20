@@ -50,6 +50,7 @@ No doucumentation before Initial release.
 -updated Command Faction Parties 1.6.5     
 -updated Random Bodies 4.3  
 -updated Butter Equipped 1.5.0   
+-updated Workshop Manager 1.8.13
 
 -changed spawn rates across the board (AD1259 RegularBanditDailySpawn.xml)    
 -changed Bandits_Nation (active hideouts at gamestart per Bandit faction 15 / removed max hideouts limit)   
