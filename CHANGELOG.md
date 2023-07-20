@@ -68,3 +68,4 @@ No doucumentation before Initial release.
 -removed Balanced Tournament Armor    
 -removed Kill Bandits Raise Relations  
 
+
