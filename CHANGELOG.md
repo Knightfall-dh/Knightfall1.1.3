@@ -57,8 +57,7 @@ No doucumentation before Initial release.
 -changed Merchandise patch (more variety)
       
 -added Nemesis 1.0.2      
--added Bodyguards 1.1.0.1   
--added new MO2 profile (AD1259) only essential mods   
+-added Bodyguards 1.1.0.1    
 -added TMRT + SettlementBannerFix    
 
 -tools updated Wabbajack to 3.2.0.0    
