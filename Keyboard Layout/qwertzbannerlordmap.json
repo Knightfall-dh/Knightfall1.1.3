@@ -155,6 +155,9 @@
       "f": 3
     },
     "W\n\n\n\n\n\n\n\n\n\nUp",
+    {
+      "f": 3
+    },
     "E\n\n\n\n\n\n\n\n\n\nTurn Camera Right",
     {
       "c": "#a1a1a1"
@@ -308,17 +311,7 @@
     {
       "c": "#55e06b",
       "fa": [
-        7,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        7
       ]
     },
     ";,\n\n\n\n\n\n\n\n\n\nMaritim",
@@ -471,8 +464,13 @@
     },
     "Wheel Down\n\n\n\n\n\n\n\n\n\nZoom Out",
     {
-      "x": 9.25,
+      "x": 5,
       "c": "#55e06b",
+      "w": 3.25
+    },
+    "\n\n\nGarrison\n\n\n\n\n\nAlt + G\nImproved",
+    {
+      "x": 1,
       "f": 3,
       "w": 3.25
     },
