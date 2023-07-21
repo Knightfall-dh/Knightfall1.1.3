@@ -67,4 +67,9 @@ No doucumentation before Initial release.
 -removed Balanced Tournament Armor    
 -removed Kill Bandits Raise Relations  
 
+### Update 1.1.5D  
+-updated Garrison Do Something 1.3.5  
 
+-added No Relation (stops popups with annoying sound)
+
+-testing Serve as a Soldier fix again, since Cheyron opend his file Archive.
