@@ -71,7 +71,7 @@ In that case you have to wait until Knightfall gets updated.
 <img align="left" width="40" height="60" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/splash.png?raw=true"> 
 
 #### Step 3: MCM Settings
-[MCM Settings](https://drive.google.com/uc?export=download&id=1-G8oAOG34qym_7DzUN-HPwegbHWemoQz)
+[MCM Settings](https://www.nexusmods.com/mountandblade2bannerlord/mods/5451?tab=files)
 
 
 Download MCM-Settings.7z and unzip the file.  
