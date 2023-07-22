@@ -68,7 +68,8 @@ No doucumentation before Initial release.
 -removed Kill Bandits Raise Relations  
 
 ### Update 1.1.5D  
--updated Garrison Do Something 1.3.5  
+-updated Garrison Do Something 1.3.5 
+-updated OSA 1.1.6 + Weaponry + Saddlery + RBM (8gb)
 
 -added No Relation (stops popups with annoying sound)
 
