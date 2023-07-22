@@ -74,4 +74,4 @@ No doucumentation before Initial release.
 -added No Relation (stops popups with annoying sound)    
 -added Serve as a Soldier + fix 1.0.10  
 
--added MO2 profile "RTS camera" to make it optional (siege crash)  
+-added MO2 profile "RTS camera" to make RTS optional (siege crash)  
