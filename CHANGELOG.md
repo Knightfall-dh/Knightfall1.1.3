@@ -72,5 +72,6 @@ No doucumentation before Initial release.
 -updated OSA 1.1.6 + Weaponry + Saddlery + RBM (8gb)  
    
 -added No Relation (stops popups with annoying sound)    
-  
--testing Serve as a Soldier fix again, since Cheyron opend his file Archive.   
+-added Serve as a Soldier + fix 1.0.10  
+
+-added MO2 profile "RTS camera" to make it optional (siege crash)  
