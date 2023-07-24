@@ -75,5 +75,7 @@ No doucumentation before Initial release.
 -added Serve as a Soldier + fix 1.0.10  
 
 -added MO2 profile "RTS camera" to make RTS optional (siege crash)  
+
+-changed 1259kingdoms.xml edit germanic, castile culture   
    
 -testing Claims 0.0.1  
