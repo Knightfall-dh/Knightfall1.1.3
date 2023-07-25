@@ -79,5 +79,5 @@ No doucumentation before Initial release.
 
 -changed 1259kingdoms.xml edit germanic, castile culture   
    
--testing Claims 0.0.1  
+-testing Claims 0.0.3  
 -testing ReShade and Root Builder for extra MO2 profile.
