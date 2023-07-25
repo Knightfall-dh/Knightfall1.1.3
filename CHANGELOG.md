@@ -83,4 +83,3 @@ No doucumentation before Initial release.
 -tools updated Wabbajack to 3.2.0.1   
    
 -testing Claims 0.0.3  
--testing ReShade and Root Builder for extra MO2 profile.
