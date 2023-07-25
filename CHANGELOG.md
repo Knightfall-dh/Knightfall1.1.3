@@ -78,6 +78,8 @@ No doucumentation before Initial release.
 -added MO2 profile "RTS camera" to make RTS optional (siege crash)  
 
 -changed 1259kingdoms.xml edit germanic, castile culture   
+
+-tools updated Wabbajack to 3.2.0.1   
    
 -testing Claims 0.0.3  
 -testing ReShade and Root Builder for extra MO2 profile.
