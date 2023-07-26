@@ -82,4 +82,5 @@ No doucumentation before Initial release.
 -tools updated Wabbajack to 3.2.0.1   
    
 -testing Claims 0.0.4     
--testing RTS Camera v4.1.23 release 26.07.23 for 1.1.5 (https://github.com/Norbivar/RTSCamera/releases)   
+-testing RTS Camera v4.1.23 release 26.07.23 for 1.1.5 (https://github.com/Norbivar/RTSCamera/releases)  
+-testing Designer225's Miscellaneous Patches (Fixed bandit spawning to allow multiple troops)  
