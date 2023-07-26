@@ -71,6 +71,7 @@ No doucumentation before Initial release.
 -updated Garrison Do Something 1.3.5   
 -updated OSA 1.1.6 + Weaponry + Saddlery + RBM (8gb)  
 -updated Random Bodies 4.4  
+-updated Nemesis 1.0.3
    
 -added No Relation (stops popups with annoying sound)    
 -added Serve as a Soldier + fix 1.0.10  
