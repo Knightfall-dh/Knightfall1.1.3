@@ -76,10 +76,9 @@ No doucumentation before Initial release.
 -added Serve as a Soldier + fix 1.0.10  
 -added Magic Holsters   
 
--added MO2 profile "RTS camera" to make RTS optional (siege crash)  
-
--changed 1259kingdoms.xml edit germanic, castile culture   
+-changed 1259kingdoms.xml fixed germanic, castile culture   
 
 -tools updated Wabbajack to 3.2.0.1   
    
--testing Claims 0.0.3  
+-testing Claims 0.0.4     
+-testing RTS Camera v4.1.23 release 26.07.23 for 1.1.5 (https://github.com/Norbivar/RTSCamera/releases)   
