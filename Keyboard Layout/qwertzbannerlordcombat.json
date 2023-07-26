@@ -164,6 +164,9 @@
       "f": 3
     },
     "Z\n\n\n\n\n\n\n\n\n\nTeam Chat",
+    {
+      "f": 3
+    },
     "U\n\n\n\n\n\n\n\n\n\nEquip. Switch",
     {
       "c": "#a1a1a1"
@@ -356,22 +359,28 @@
     },
     "Win",
     {
-      "c": "#a877d9",
-      "f": 3,
-      "w": 1.25
+      "c": "#21bf2a",
+      "a": 5,
+      "w": 1.25,
+      "h2": 1.25
     },
-    "Left Alt\n\n\n\n\n\n\n\n\n\nIndicators",
+    "Indicators\ntoggle\n\n\nBanners\n\n+",
     {
+      "c": "#a877d9",
+      "a": 4,
       "f": 3,
       "w": 6.25
     },
     "Space\n\n\n\n\n\n\n\n\n\nJump",
     {
-      "c": "#a1a1a1",
-      "w": 1.25
+      "c": "#21bf2a",
+      "f2": 0,
+      "w": 1.25,
+      "h2": 1.25
     },
-    "Right Alt",
+    "show/hide\n\n\n\nBanners\n\n\n\n\nfriendly\ntroop",
     {
+      "c": "#a1a1a1",
       "w": 1.25
     },
     "Win",
@@ -399,13 +408,9 @@
   [
     {
       "y": 0.25,
-      "c": "#a877d9",
-      "f": 3
+      "c": "#a877d9"
     },
     "M1\n\n\n\n\n\n\n\n\n\nAttack",
-    {
-      "f": 3
-    },
     "M2\n\n\n\n\n\n\n\n\n\nDefend",
     {
       "fa": [
