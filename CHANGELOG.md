@@ -82,4 +82,5 @@ No doucumentation before Initial release.
 
 -tools updated Wabbajack to 3.2.0.1   
    
--testing Claims 0.0.4     
+-testing Claims 0.0.4    
+-testing Art of War 1.2.7  
