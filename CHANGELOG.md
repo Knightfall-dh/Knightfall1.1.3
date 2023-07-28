@@ -79,8 +79,11 @@ No doucumentation before Initial release.
 -added Serve as a Soldier + fix 1.0.10  
 -added Magic Holsters   
    
--changed 1259kingdoms.xml fixed germanic, castile culture + added missing Kingdom text from Wikipedia + added Relation for samller factions (neutral)
+-changed 1259kingdoms.xml fixed germanic, castile culture + added missing Kingdom text from Wikipedia
    
 -tools updated Wabbajack to 3.2.0.1   
-   
+
+-removed BUTR's Yell To Inspire (too much)
+-removed More Companions For My Tavern (save bloat)
+
 -testing Claims 0.0.4    
