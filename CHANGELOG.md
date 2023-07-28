@@ -71,16 +71,15 @@ No doucumentation before Initial release.
 -updated Garrison Do Something 1.3.5   
 -updated OSA 1.1.6 + Weaponry + Saddlery + RBM (8gb)  
 -updated Random Bodies 4.4  
--updated Nemesis 1.0.3
--updated RTS Camera v.4.1.23.0 (siege fix)
+-updated Nemesis 1.0.3   
+-updated RTS Camera v.4.1.23.0 (siege fix)   
    
 -added No Relation (stops popups with annoying sound)    
 -added Serve as a Soldier + fix 1.0.10  
 -added Magic Holsters   
-
+   
 -changed 1259kingdoms.xml fixed germanic, castile culture + added missing Kingdom text from Wikipedia + added Relation for samller factions (neutral)
-
+   
 -tools updated Wabbajack to 3.2.0.1   
    
 -testing Claims 0.0.4    
--testing Art of War 1.2.7  
