@@ -74,6 +74,7 @@ No doucumentation before Initial release.
 -updated Nemesis 1.0.3   
 -updated RTS Camera v.4.1.23.0 (siege fix)  
 -updated Nemesis 1.1.0   
+-updated Realistic Battle Mod 3.6.2  
    
 -added No Relation (stops popups with annoying sound)    
 -added Serve as a Soldier + fix 1.0.10  
@@ -83,7 +84,7 @@ No doucumentation before Initial release.
    
 -tools updated Wabbajack to 3.2.0.1   
 
--removed BUTR's Yell To Inspire (too much)
--removed More Companions For My Tavern (save bloat)
+-removed BUTR's Yell To Inspire (too much)   
+-removed More Companions For My Tavern (save bloat)   
 
 -testing Claims 0.0.4    
