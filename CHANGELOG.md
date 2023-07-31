@@ -79,12 +79,13 @@ No doucumentation before Initial release.
 -added No Relation (stops popups with annoying sound)    
 -added Serve as a Soldier + fix 1.0.10  
 -added Magic Holsters   
+-added Casus Belli 0.0.4
    
 -changed 1259kingdoms.xml fixed germanic, castile culture + added missing Kingdom text from Wikipedia
    
 -tools updated Wabbajack to 3.2.0.1   
 
--removed BUTR's Yell To Inspire (too much)   
+-removed BUTR's Yell To Inspire (too much yelling)   
 -removed More Companions For My Tavern (save bloat)   
-
--testing Claims 0.0.4    
+-removed Blunt Arena Weapons (In favor for full RBM experience Combat+AI+Tournament)   
+ 
