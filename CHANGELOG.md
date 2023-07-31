@@ -87,5 +87,4 @@ No doucumentation before Initial release.
 
 -removed BUTR's Yell To Inspire (too much yelling)   
 -removed More Companions For My Tavern (save bloat)   
--removed Blunt Arena Weapons (In favor for full RBM experience Combat+AI+Tournament)   
  
