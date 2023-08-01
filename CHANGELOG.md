@@ -71,7 +71,6 @@ No doucumentation before Initial release.
 -updated Garrison Do Something 1.3.5   
 -updated OSA 1.1.6 + Weaponry + Saddlery + RBM (8gb)  
 -updated Random Bodies 4.4  
--updated Nemesis 1.0.3   
 -updated RTS Camera v.4.1.23.0 (siege fix)  
 -updated Nemesis 1.1.0   
 -updated Realistic Battle Mod 3.6.2  
@@ -87,4 +86,3 @@ No doucumentation before Initial release.
 
 -removed BUTR's Yell To Inspire (too much yelling)   
 -removed More Companions For My Tavern (save bloat)   
- 
