@@ -72,7 +72,7 @@ No doucumentation before Initial release.
 -updated OSA 1.1.6 + Weaponry + Saddlery + RBM (8gb)  
 -updated Random Bodies 4.4  
 -updated RTS Camera v.4.1.23.0 (siege fix)  
--updated Nemesis 1.1.0   
+-updated Nemesis 1.1.1   
 -updated Realistic Battle Mod 3.6.2  
    
 -added No Relation (stops popups with annoying sound)    
