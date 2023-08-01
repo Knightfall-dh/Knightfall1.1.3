@@ -74,13 +74,17 @@ No doucumentation before Initial release.
 -updated RTS Camera v.4.1.23.0 (siege fix)  
 -updated Nemesis 1.1.1   
 -updated Realistic Battle Mod 3.6.2  
+-updated Character Reload Fix e1.1.5.4  
+
    
 -added No Relation (stops popups with annoying sound)    
 -added Serve as a Soldier + fix 1.0.10  
 -added Magic Holsters   
--added Casus Belli 0.0.4
+
    
 -changed 1259kingdoms.xml fixed germanic, castile culture + added missing Kingdom text from Wikipedia
+
+-testing Casus Belli 0.0.4
    
 -tools updated Wabbajack to 3.2.0.1   
 
