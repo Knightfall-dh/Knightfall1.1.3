@@ -75,18 +75,17 @@ No doucumentation before Initial release.
 -updated Nemesis 1.1.1   
 -updated Realistic Battle Mod 3.6.2  
 -updated Character Reload Fix e1.1.5.4  
-
-   
+  
 -added No Relation (stops popups with annoying sound)    
 -added Serve as a Soldier + fix 1.0.10  
 -added Magic Holsters   
-
-   
+-added Scatter Around Expanded 1.3.0
+    
 -changed 1259kingdoms.xml fixed germanic, castile culture + added missing Kingdom text from Wikipedia
 
--testing Casus Belli 0.0.4
-   
 -tools updated Wabbajack to 3.2.0.1   
 
 -removed BUTR's Yell To Inspire (too much yelling)   
 -removed More Companions For My Tavern (save bloat)   
+
+-testing Casus Belli 0.0.4
