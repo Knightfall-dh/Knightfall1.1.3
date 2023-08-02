@@ -75,6 +75,7 @@ No doucumentation before Initial release.
 -updated Nemesis 1.1.1   
 -updated Realistic Battle Mod 3.6.2  
 -updated Character Reload Fix e1.1.5.5      
+-updated Family Control 1.1.1    
   
 -added No Relation (stops popups with annoying sound)    
 -added Serve as a Soldier + fix 1.0.10 + config fix    
