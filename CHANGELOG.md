@@ -79,11 +79,14 @@ No doucumentation before Initial release.
 -added No Relation (stops popups with annoying sound)    
 -added Serve as a Soldier + fix 1.0.10 + config fix    
 -added Magic Holsters   
--added Scatter Around Expanded 1.3.0
+-added Scatter Around Expanded 1.3.0  
+.added I Don't Care - Campaign Log Filter 2.6.2
     
 -changed 1259kingdoms.xml fixed germanic, castile culture + added missing Kingdom text from Wikipedia
 
 -tools updated Wabbajack to 3.2.0.1   
 
 -removed BUTR's Yell To Inspire (too much yelling)   
--removed More Companions For My Tavern (save bloat)   
+-removed More Companions For My Tavern (save bloat)  
+-removed Homesteads (weird behavior with Improved Garrisons)  
+
