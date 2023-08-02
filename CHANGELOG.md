@@ -1,5 +1,5 @@
 # 1.1.5D  
-## updated
+## updated mods
 - Garrison Do Something 1.3.5   
 - OSA 1.1.6 + Weaponry + Saddlery + RBM (8gb)  
 - Random Bodies 4.4  
@@ -9,14 +9,14 @@
 - Character Reload Fix e1.1.5.5      
 - Family Control 1.1.1
 - Wabbajack to 3.2.0.1
-## added 
+## added mods
 - No Relation (stops popups with annoying sound)    
 - Serve as a Soldier + fix 1.0.10 + config fix    
 - Magic Holsters   
 - Scatter Around Expanded 1.3.0  
 - I Don't Care - Campaign Log Filter 2.6.2
 - 1259kingdoms.xml fixed germanic, castile culture + added missing Kingdom text from Wikipedia
-## removed    
+## removed mods   
 - BUTR's Yell To Inspire (too much yelling)   
 - removed More Companions For My Tavern (save bloat)  
 - removed Homesteads (weird behavior with Improved Garrisons)
