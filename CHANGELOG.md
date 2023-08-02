@@ -74,7 +74,7 @@ No doucumentation before Initial release.
 -updated RTS Camera v.4.1.23.0 (siege fix)  
 -updated Nemesis 1.1.1   
 -updated Realistic Battle Mod 3.6.2  
--updated Character Reload Fix e1.1.5.4  
+-updated Character Reload Fix e1.1.5.5      
   
 -added No Relation (stops popups with annoying sound)    
 -added Serve as a Soldier + fix 1.0.10 + config fix    
