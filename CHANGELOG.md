@@ -77,7 +77,7 @@ No doucumentation before Initial release.
 -updated Character Reload Fix e1.1.5.4  
   
 -added No Relation (stops popups with annoying sound)    
--added Serve as a Soldier + fix 1.0.10  + config fix
+-added Serve as a Soldier + fix 1.0.10  + config fix  
 -added Magic Holsters   
 -added Scatter Around Expanded 1.3.0
     
