@@ -18,8 +18,8 @@
 - 1259kingdoms.xml fixed germanic, castile culture + added missing Kingdom text from Wikipedia
 ## removed mods   
 - BUTR's Yell To Inspire (too much yelling)   
-- removed More Companions For My Tavern (save bloat)  
-- removed Homesteads (weird behavior with Improved Garrisons)
+- More Companions For My Tavern (save bloat)  
+- Homesteads (weird behavior with Improved Garrisons)
 ***************************************************************************************************************************************
 ## Update1.1.5C   
 -updated ButterLib v2.8.11      
