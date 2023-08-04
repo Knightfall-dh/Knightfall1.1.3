@@ -1,5 +1,6 @@
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/knightfallnexusjpg.jpg?raw=true)
-# Knightfall: A Wabbajack Mod List for Bannerlord                                        
+# Knightfall: A Wabbajack Mod List for Bannerlord 1.1.5 
+# [MOD LIST](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/load%20order.md)                                     
 ## Knightfall Trailer 
 [![](https://img.youtube.com/vi/K0Cy6O43qAs/0.jpg)](https://www.youtube.com/watch?v=K0Cy6O43qAs)
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
