@@ -1,81 +1,81 @@
-  - Bannerlord.Harmony
-  - BetterExceptionWindow
-  - Bannerlord.ButterLib
-  - Bannerlord.UIExtenderEx
-  - Bannerlord.MBOptionScreen
+  - Harmony
+  - Better Exception Window
+  - Butter Lib
+  - UI Extender Ex
+  - Mod Configuration Menu
   - Native
   - SandBoxCore
   - CustomBattle
   - BirthAndDeath
   - Sandbox
   - StoryMode
-  - BannerColorPersistence
-  - True_Menu_Refinement_Tool
-  - RandomBodies
-  - Bannerlord.Diplomacy
-  - CulturalDrift
-  - AlternatingMainMenuModule
-  - IDontCare
-  - BetterHUD
-  - SortedIncome
-  - FriendlyTroopBannerHotkeys
-  - BetterTime
-  - ZoomOutOnMap
-  - CharacterReload
-  - ButterEquipped
-  - BetterFoodTooltip
-  - RTSCamera
-  - RTSCamera.CommandSystem
-  - ScatterAroundExpanded
-  - SettlementIconRedesign
-  - RBM
-  - BluntArenaWeapons
-  - BetterPikes
-  - BreakablePolearms
+  - Banner Color Persistence
+  - True Menu Refinement Tool
+  - Random Bodies
+  - Diplomacy
+  - Cultural Drift
+  - Alternating Main Menu Module
+  - I Dont Care
+  - Better HUD
+  - Sorted Income
+  - Friendly Troop Banner Hotkeys
+  - Better Time
+  - Zoom Out On Map
+  - Character Reload
+  - Butter Equipped
+  - Better Food Tooltip
+  - RTS Camera
+  - RTS Camera Command System
+  - Scatter Around Expanded
+  - Settlement Icon Redesign
+  - Realistic Battle Mod
+  - Blunt Arena Weapons
+  - Better Pikes
+  - Breakable Polearms
   - Vexillum
   - BannerFix
-  - RaiseYourBanner
+  - Raise Your Banner
   - Magic Holsters
-  - ImmersiveBattlefields
-  - LT_Nemesis
+  - Immersive Battlefields
+  - Nemesis
   - Bodyguards
-  - MyLittleWarband
-  - RealisticWeather
-  - PerfectFireArrows
-  - RaiseYourTorch
-  - ExpandedArmouryBL
-  - OpenSourceArmory
-  - OpenSourceArmoryRBM
-  - OpenSourceSaddlery
-  - OpenSourceSaddleryRBM
-  - OpenSourceWeaponry
-  - OpenSourceWeaponryRBM
-  - UltimateMountsReforgedRBM
-  - Bandits_Nation
+  - My Little Warband
+  - Realistic Weather
+  - Perfect Fire Arrows
+  - Raise Your Torch
+  - Expanded Armoury BL
+  - Open Source Armory
+  - Open Source Armory RBM
+  - Open Source Saddlery
+  - Open Source Saddlery RBM
+  - Open Source Weaponry
+  - Open Source Weaponry RBM
+  - Ultimate Mounts Reforged RBM
+  - Bandits Nation
   - Fourberie
-  - MorePrisonerInteractions
-  - CommandFactionParties
-  - ServeAsSoldier
-  - ServeAsSoldierFix
-  - MoreHeroInteractions
-  - AskWhereALordIs
-  - FamilyControl
-  - MolochsDuels
-  - DeclareWarTogether
-  - HoldCourt
-  - ImprovedGarrisons
-  - GarrisonDoSomething
-  - DonateToGranary
-  - SupplyLines
-  - WorkshopManager
-  - LT_Education
-  - SensicalExecutionPenalties
-  - CombatFriends
-  - RandomEvents
-  - NoRelation
-  - PocTempEdition
-  - CustomSpawns
-  - Europe_LemmyProject
-  - indev-AD1259
+  - More Prisoner Interactions
+  - Command Faction Parties
+  - Serve As Soldier
+  - Serve As Soldier Fix
+  - More Hero Interactions
+  - Ask Where A Lord Is
+  - Family Control
+  - Molochs Duels
+  - Declare War Together
+  - Hold Court
+  - Improved Garrisons
+  - Garrison Do Something
+  - Donate To Granary
+  - Supply Lines
+  - Workshop Manager
+  - Education
+  - Sensical Execution Penalties
+  - Combat Friends
+  - Random Events
+  - No Relation
+  - Poc Temp Edition
+  - Custom Spawns
+  - Europe Lemmy Project
+  - indev AD1259
   - Merchandise
   - BarbaryPirates
