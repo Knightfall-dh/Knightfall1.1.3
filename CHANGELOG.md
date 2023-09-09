@@ -6,6 +6,7 @@
 - Butter Equipped 1.6.0
 - Harmony v2.3.0.174
 - Better Time 1.3.3
+- Nemesis 1.3
 - Education 1.10.0
 ## added mods
 - AD1259 Armies of Europe (Troop Tree Overhaul)
