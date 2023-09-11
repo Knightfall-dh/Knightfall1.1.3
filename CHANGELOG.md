@@ -2,6 +2,7 @@
 ## fixes
 - melee kick fix (Ultimate Mounts was the culprit)
 ## updated mods
+- ButterLib 2.8.12
 - Random Bodies 4.6
 - Butter Equipped 1.6.0
 - Harmony v2.3.0.174
