@@ -2,7 +2,8 @@
 ## fixes
 - melee kick fix (Ultimate Mounts was the culprit)
 ## updated mods
-- ButterLib 2.8.12
+- Character Reload Fix 1.1.5.7
+- ButterLib 2.8.13
 - Random Bodies 4.6
 - Butter Equipped 1.6.0
 - Harmony v2.3.0.174
@@ -12,10 +13,8 @@
 ## added mods
 - AD1259 Armies of Europe (Troop Tree Overhaul)
 - Art of War
-- Casus Belli
 - Templar Troop Tree
 ## removed mods
-- Diplomacy (caused more problems than it's worth it)
 - Ultimate Mounts Reforged crash fix 1.2.0 (no idea why i added it)  
 # 1.1.5D  
 ## updated mods
