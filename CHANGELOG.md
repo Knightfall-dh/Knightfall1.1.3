@@ -1,6 +1,6 @@
 # 1.1.5E 
 ## fixes
-- melee kick fix (Ultimate Mounts was the culprit)
+- kick range fix (Ultimate Mounts was the culprit)
 ## updated mods
 - Character Reload Fix 1.1.5.7
 - ButterLib 2.8.13
