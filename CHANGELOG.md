@@ -12,6 +12,7 @@
 - Education 1.10.0
 ## added mods
 - AD1259 Armies of Europe (Troop Tree Overhaul)
+- Swadian armoury
 - Art of War
 - Templar Troop Tree
 ## removed mods
