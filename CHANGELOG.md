@@ -1,3 +1,10 @@
+# 1.1.5.F
+## added mods
+Ultimate Mounts Reforged for RBM crash fix 1.2.0   
+
+## tools
+new Mod Organizer profile with minimal AD1259 load order.  
+
 # 1.1.5E 
 ## fixes
 - kick range fix (Ultimate Mounts was the culprit)
