@@ -120,6 +120,8 @@ Press Play!
 
 ## Navigate to Knightfall\mods\BLSE Load Order Backup\MyList.bmlist
 
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/BLSE2.png?raw=true)
+
 
 
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
