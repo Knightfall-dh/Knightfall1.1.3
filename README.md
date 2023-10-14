@@ -110,7 +110,18 @@ Press Play!
 
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/explorevf.gif)
 
+<br/>
 
+![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
+
+<br/>
+
+# BLSE Launcher
+BLS requires additional steps.    
+Switch to the mods tab and click Import and navigate to Knightfall\mods\BLSE Load Order Backup\MyList.bmlist   
+
+
+<br/>
 
 ![](https://github.com/Knightfall-dh/Knightfall1.1.3/raw/main/images/paragraph.png)
 
