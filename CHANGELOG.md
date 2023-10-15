@@ -3,7 +3,8 @@ done some work on it
 updated to Lammy's Kievan Rus' Update 1.1.6 + Anno Domini 1259 - v1.3.2.1   
 removed Novus and added BLSE   
 removed some mods   
-updated all remaining mods    
+updated all remaining mods      
+reworked video guide   
 
 
 # 1.1.5.F
