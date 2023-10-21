@@ -1,10 +1,19 @@
 # 1.1.6
 done some work on it   
-updated to Lammy's Kievan Rus' Update 1.1.6 + Anno Domini 1259 - v1.3.2.1   
-removed Novus and added BLSE   
-removed some mods   
-updated all remaining mods      
-reworked video guide   
+## added  
+- StrengthenAI  
+- Recruit your own Culture updated  
+- reworked POC config with new shield pattern  
+- Norman Armory (only for the shields to avoid the shield bug)  
+- updated to Lammy's Kievan Rus' Update 1.1.6 + Anno Domini 1259 - v1.3.2.1
+
+## tool
+- removed Novus and added BLSE   
+- reworked video guide
+
+## removed 
+- some mods   
+    
 
 
 # 1.1.5.F
