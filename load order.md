@@ -1,81 +1,70 @@
-  - Harmony
-  - Better Exception Window
-  - Butter Lib
-  - UI Extender Ex
-  - Mod Configuration Menu
-  - Native
-  - SandBoxCore
-  - CustomBattle
-  - BirthAndDeath
-  - Sandbox
-  - StoryMode
-  - Banner Color Persistence
-  - True Menu Refinement Tool
-  - Random Bodies
-  - Diplomacy
-  - Cultural Drift
-  - Alternating Main Menu Module
-  - I Dont Care
-  - Better HUD
-  - Sorted Income
-  - Friendly Troop Banner Hotkeys
-  - Better Time
-  - Zoom Out On Map
-  - Character Reload
-  - Butter Equipped
-  - Better Food Tooltip
-  - RTS Camera
-  - RTS Camera Command System
-  - Scatter Around Expanded
-  - Settlement Icon Redesign
-  - Realistic Battle Mod
-  - Blunt Arena Weapons
-  - Better Pikes
-  - Breakable Polearms
-  - Vexillum
-  - BannerFix
-  - Raise Your Banner
-  - Magic Holsters
-  - Immersive Battlefields
-  - Nemesis
-  - Bodyguards
-  - My Little Warband
-  - Realistic Weather
-  - Perfect Fire Arrows
-  - Raise Your Torch
-  - Expanded Armoury BL
-  - Open Source Armory
-  - Open Source Armory RBM
-  - Open Source Saddlery
-  - Open Source Saddlery RBM
-  - Open Source Weaponry
-  - Open Source Weaponry RBM
-  - Ultimate Mounts Reforged RBM
-  - Bandits Nation
-  - Fourberie
-  - More Prisoner Interactions
-  - Command Faction Parties
-  - Serve As Soldier
-  - Serve As Soldier Fix
-  - More Hero Interactions
-  - Ask Where A Lord Is
-  - Family Control
-  - Molochs Duels
-  - Declare War Together
-  - Hold Court
-  - Improved Garrisons
-  - Garrison Do Something
-  - Donate To Granary
-  - Supply Lines
-  - Workshop Manager
-  - Education
-  - Sensical Execution Penalties
-  - Combat Friends
-  - Random Events
-  - No Relation
-  - Poc Temp Edition
-  - Custom Spawns
-  - Europe Lemmy Project
-  - indev AD1259
-  - Merchandise
-  - BarbaryPirates
+- Bannerlord.Harmony: v2.3.0.174
+- BetterExceptionWindow: v6.5.0.0
+- Bannerlord.ButterLib: v2.8.13.0
+- Bannerlord.UIExtenderEx: v2.8.0.0
+- Bannerlord.MBOptionScreen: v5.9.1.0
+- Native: v1.1.6.0
+- SandBoxCore: v1.1.6.0
+- BirthAndDeath: v1.1.6.0
+- CustomBattle: v1.1.6.0
+- Sandbox: v1.1.6.0
+- StoryMode: v1.1.6.0
+- True_Menu_Refinement_Tool: v3.0.0.0
+- BannerColorPersistence: v1.4.5.0
+- RandomBodies: e1.0.3.0
+- Bannerlord.Diplomacy: v1.2.7.0
+- StrengthenAI(1.1.2-1.2.4): v2.1.0.0
+- CulturalDrift: v1.3.6.0
+- RecruitYourOwnCulture: v1.2.0.2
+- AlternatingMainMenuModule: v1.0.1.0
+- IDontCare: v2.6.2.0
+- BetterHUD: v1.9.0.0
+- BetterTime: v1.3.2.0
+- ButterEquipped: v1.6.0.0
+- SortedIncome: v4.2.6.0
+- FriendlyTroopBannerHotkeys: v1.6.0.0
+- ZoomOutOnMap: v1.0.0.0
+- CharacterReload: e1.1.5.7
+- BetterFoodTooltip: v1.1.2.0
+- RTSCamera: v4.1.23.0
+- RTSCamera.CommandSystem: v4.1.23.0
+- ScatterAroundExpanded: v2.0.2.0
+- SettlementIconRedesign: v1.1.0.0
+- RBM: v3.6.1.0
+- BluntArenaWeapons: v1.1.5.0
+- BetterPikes: v1.1.6.0
+- BreakablePolearms: v1.1.0.0
+- Vexillum: e1.5.2.0
+- BannerFix: v3.0.0.0
+- RaiseYourBanner: v10.3.0.0
+- Magic Holsters: v1.2.0.0
+- MyLittleWarband: v1.1.0.0
+- RealisticWeather: v1.3.6.0
+- PerfectFireArrows: v6.1.0.0
+- RaiseYourTorch: v5.3.0.0
+- ExpandedArmouryBL: e1.5.2.0
+- swadian armoury: v1.0.0.0
+- OpenSourceArmory: v1.17.0.0
+- OpenSourceArmoryRBM: v1.17.0.0
+- OpenSourceSaddlery: v1.6.0.0
+- OpenSourceSaddleryRBM: v1.6.0.0
+- OpenSourceWeaponry: v1.6.0.0
+- OpenSourceWeaponryRBM: v1.6.0.0
+- Norman Armory: e1.5.2.0
+- UltimateMountsReforgedRBM: v1.2.0.0
+- MoreHeroInteractions: v1.1.2.0
+- AskWhereALordIs: v1.1.2.0
+- CommandFactionParties: v1.6.5.0
+- SensicalExecutionPenalties: v1.1.3.0
+- CombatFriends: v1.0.0.0
+- ServeAsSoldier: v1.1.1.0
+- ServeAsSoldierFix: v1.0.10.0
+- XorberaxLegacy: v1.0.5.7
+- ImmersiveBattlefields: v2.9.2.0
+- NoRelation: v1.1.0.0
+- PocTempEdition: v1.1.4.1
+- CustomSpawns: v1.9.5.0
+- Europe_LemmyProject: v1.1.6.2
+- indev-AD1259: v1.3.2.0
+- AD1259-Item-RBM: v1.0.0.0
+- BarbaryPirates: v1.0.3.0
