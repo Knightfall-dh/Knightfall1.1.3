@@ -1,3 +1,21 @@
+# 1.1.6.1
+## tools  
+- wabbajack 3.4 (known bug: image in installation screen is missing)   
+- added Root Builder 5 it is no longer required to do it manually (thanks to Kezyma for fixing the problem with BLSE exe)  
+- reworked video guide  
+## added  
+- NEW Kingdom of Lithuania (thanks to razinka)
+- InitialScreen.xml to AD1259 to restore the logo (thanks to SixthCurse)
+- new scenes for Arenas (thanks to Asve)  
+- new scenes for some villages  
+- Agriculture Estate Updated to have a new way for passive income
+## optional
+- 14th century lances you have to check both mods and sort it into BLSE armoury section
+## removed   
+- Command Faction Parties - bugs  
+## updated  
+- some mods  
+
 # 1.1.6
 done some work on it   
 ## added  
