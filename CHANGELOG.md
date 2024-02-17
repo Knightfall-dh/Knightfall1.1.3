@@ -1,3 +1,8 @@
+# 1.2.9
+if you have a good time on 1.1.6 there is no reason to update
+i hope we can add new factions with the next update
+
+
 # 1.1.6.1
 ## tools  
 - wabbajack 3.4 (known bug: image in installation screen is missing)   
