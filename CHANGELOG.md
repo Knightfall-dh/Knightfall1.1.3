@@ -1,9 +1,9 @@
 # 1.2.9.3
-added 3 new playable cultures to Anno Domini 1259
-arena scenes, merged all arena mods
-updated a lot of mods
-armies of europe fixed
-barbary pirates fixed
+added 3 new playable cultures to Anno Domini 1259  
+arena scenes, merged all arena mods  
+updated a lot of mods  
+armies of europe fixed  
+barbary pirates fixed  
 
 
 
