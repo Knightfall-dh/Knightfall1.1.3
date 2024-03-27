@@ -1,3 +1,12 @@
+# 1.2.9.3
+added 3 new playable cultures to Anno Domini 1259
+arena scenes, merged all arena mods
+updated a lot of mods
+armies of europe fixed
+barbary pirates fixed
+
+
+
 # 1.2.9
 if you have a good time on 1.1.6 there is no reason to update
 i hope we can add new factions with the next update
