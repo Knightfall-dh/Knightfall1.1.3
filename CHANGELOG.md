@@ -1,3 +1,11 @@
+# 1.2.9.5
+3 new kingdoms for Italy  
+2 new kingdoms for north africa   
+updated to Lemmy's iran update        
+new polearms and lances for elite troops        
+fixes and probably new bugs    
+POC config fixes      
+
 # 1.2.9.3
 added 3 new playable cultures to Anno Domini 1259  
 arena scenes, merged all arena mods  
