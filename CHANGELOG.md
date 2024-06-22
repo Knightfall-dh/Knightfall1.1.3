@@ -1,3 +1,13 @@
+# 1.2.9.6  
+two new kind of bandits + new hideouts  
+Improved minor Faction  
+Settlement Map  
+Fix Valor  
+Show Trait Exp  
+RTSCamera  
+My Little Warband (still buggy)  
+
+
 # 1.2.9.5
 3 new kingdoms for Italy  
 2 new kingdoms for north africa   
