@@ -1,9 +1,9 @@
 # 1.2.10.1
-new towns
-bulgarian culture
-character selection screen
-main menu music
-updated mods
+new towns  
+bulgarian culture  
+character selection screen   
+main menu music  
+updated mods  
 
 
 # 1.2.9.6  
