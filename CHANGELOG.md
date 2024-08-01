@@ -1,3 +1,11 @@
+# 1.2.10.1
+new towns
+bulgarian culture
+character selection screen
+main menu music
+updated mods
+
+
 # 1.2.9.6  
 two new kind of bandits + new hideouts  
 Improved minor Faction  
